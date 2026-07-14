@@ -1,4 +1,3 @@
-```markdown
 # 🌌 ATMOS_SECURE // Spatial Key Generator
 
 An elegant, high-fidelity password generator inspired by the premium, dark aesthetics of **Dolby Atmos** mixed with modern **Glassmorphic** UI design principles. 
